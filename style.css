@@ -120,7 +120,65 @@ body {
     box-shadow: 0px 10px 15px 0px rgba(49, 87, 91, 0.38);
     
    }
-  /*
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+   h2 {
+    color: #474747;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+   }
+
+   h3 {
+    color: #979EA6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+   }
+
+  .burn span {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 700;
+    padding-right: 10px;
+
+  }
+
+  .burn button {
+    width: 111px;
+    height: 41px;
+    border-radius: 10px;
+    background: var(--Button, linear-gradient(270deg, #FD814A -12.71%, #FC5C4C 121.19%));
+    box-shadow: 0px 5px 20px 0px rgba(253, 113, 75, 0.25);
+    border: none;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+
+  .burn img {
+    width: 8px;
+    height: 8px;
+    fill: #FFF;
+  }
+
+  
+
+
+  
   .pictures-button:hover {
     background-color: #d04040;
   }
@@ -136,6 +194,7 @@ body {
     flex-wrap: wrap;
     gap: 16px;
     margin-top: 26px;
+    margin-bottom: 20px;
     
   }
 
@@ -179,4 +238,3 @@ body {
     cursor: pointer;
     color: white;
   }
-*/
